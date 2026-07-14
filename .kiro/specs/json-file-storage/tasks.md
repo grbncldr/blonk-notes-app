@@ -41,13 +41,13 @@ Replace the in-memory `NoteRepository` with a JSON file-backed implementation. T
 - [x] 3. Checkpoint - Ensure all tests pass
   - Ensure all tests pass, ask the user if questions arise.
 
-- [ ] 4. Add notes.json to .gitignore
-  - [-] 4.1 Append `notes.json` to the project root `.gitignore`
+- [x] 4. Add notes.json to .gitignore
+  - [x] 4.1 Append `notes.json` to the project root `.gitignore`
     - Add a comment and the ignore pattern for `backend/notes.json`
     - If no root `.gitignore` exists, create one
     - _Requirements: 5.1_
 
-- [~] 5. Final checkpoint - Ensure all tests pass
+- [x] 5. Final checkpoint - Ensure all tests pass
   - Ensure all tests pass, ask the user if questions arise.
 
 ## Notes

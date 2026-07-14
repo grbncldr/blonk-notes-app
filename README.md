@@ -39,7 +39,7 @@ See what Kiro can do to fix this -> Bug fix mode.
 
 ## Quick spec mode
 
-
+Prompt : 
 for testing, enable local storage of the notes on the backend side. 
 
 

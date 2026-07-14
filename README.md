@@ -1,6 +1,6 @@
-## Let's build an app with Kiro
+# Let's build an app with Kiro
 
-### Spec mode 
+## Spec mode 
 
 Build me an application, which manages notes. It's a webapplication build with vue and having python as an api backend. The application needs to show a list of notes, add a note, edit a note and delete a note.
 

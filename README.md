@@ -8,9 +8,9 @@ Build me an application, which manages notes. It's a webapplication build with v
 
 
 Prompt : 
-make a run-backend.sh
-make a run-frontend.sh
 
+Make a bash script to start the frontend and one bash script to start the backend. 
+Name the files run-backend.sh and run-frontend.sh 
 
 Error appears : 
 

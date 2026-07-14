@@ -1,6 +1,7 @@
 """Integration smoke tests for the backend REST API."""
 
 import json
+from pathlib import Path
 
 import pytest
 
@@ -9,13 +10,14 @@ from backend import app as app_module
 
 
 @pytest.fixture
-def client():
+def client(tmp_path):
     """Create a fresh Flask test client with an empty repository."""
     # Reset the module-level singletons for test isolation
     from backend.repository import NoteRepository
     from backend.service import NoteService
 
-    app_module.repository = NoteRepository()
+    test_file = tmp_path / "notes.json"
+    app_module.repository = NoteRepository(file_path=test_file)
     app_module.service = NoteService(app_module.repository)
 
     app = create_app()

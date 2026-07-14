@@ -1,5 +1,6 @@
 ## Let's build an app with Kiro
 
+### Spec mode 
 
 Build me an application, which manages notes. It's a webapplication build with vue and having python as an api backend. The application needs to show a list of notes, add a note, edit a note and delete a note.
 
@@ -13,17 +14,14 @@ Found it. The backend serializes timestamps as created_at / updated_at (snake_ca
 
 The fix: update the backend's to_dict() to emit camelCase keys, matching the frontend interface.
 
-
-
-
-
-
 add a steering file about the pep8 styling guide for python
 
 add a steering file about the best practise for vue applications
 
 
-## Let's introduce a bug
+## Bug Spec mode
+
+Let's introduce a bug
 
 In service.py -> Line 18, get-all , make it get-all-notes
 

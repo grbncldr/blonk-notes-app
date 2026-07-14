@@ -1,0 +1,288 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create Python backend project structure with route handlers, service layer, repository layer, and validation module": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004417495
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004426075
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004624479
+      }
+    ],
+    "1.2 Implement backend validation layer": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004417775
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004629713
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004838763
+      }
+    ],
+    "1.3 Implement NoteService business logic": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004417809
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004630429
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004839436
+      }
+    ],
+    "1.4 Implement REST API route handlers": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004417833
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004848363
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004987040
+      }
+    ],
+    "2. Checkpoint - Ensure backend tests pass": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004417859
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005013987
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005142274
+      }
+    ],
+    "3.1 Create Vue.js frontend project structure with API client and validation module": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418044
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004426853
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004625188
+      }
+    ],
+    "3.2 Implement frontend validation module": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418069
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004631137
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004840163
+      }
+    ],
+    "3.3 Implement string truncation utility": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418094
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004631962
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004840943
+      }
+    ],
+    "4.1 Implement Pinia notes store": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418119
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005150991
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005227365
+      }
+    ],
+    "4.3 Implement NotesListView component": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418145
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005233713
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005346321
+      }
+    ],
+    "4.4 Implement NoteEditor component": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418170
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005234430
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005346369
+      }
+    ],
+    "4.6 Implement DeleteConfirmationDialog component": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418194
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005235257
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005347071
+      }
+    ],
+    "5.1 Connect NotesListView to store actions and NoteEditor/DeleteConfirmationDialog": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418219
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005351792
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005481953
+      }
+    ],
+    "5.2 Implement error handling flows in frontend": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418245
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005352734
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005482757
+      }
+    ],
+    "6. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004418269
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005487062
+      },
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005535341
+      }
+    ],
+    "3. Set up frontend project structure and shared modules": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004840971
+      }
+    ],
+    "1. Set up backend project structure and data model": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784004987076
+      }
+    ],
+    "4. Implement frontend state management and views": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005347107
+      }
+    ],
+    "5. Wire components together and integrate frontend with backend": [
+      {
+        "executionId": "b1db79e1-06cf-49ae-9532-c2a2cb215263",
+        "chatSessionId": "sess_9e4715b5-57b1-4a05-abc6-78590e0ea19b",
+        "timestamp": 1784005482790
+      }
+    ]
+  }
+}

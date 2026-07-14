@@ -38,8 +38,8 @@ class TestCreateNote:
         assert data["title"] == "Test Note"
         assert data["body"] == "Some body text"
         assert "id" in data
-        assert "created_at" in data
-        assert "updated_at" in data
+        assert "createdAt" in data
+        assert "updatedAt" in data
 
     def test_create_with_empty_title_returns_400(self, client):
         response = client.post(

@@ -19,8 +19,8 @@ class Note:
             "id": self.id,
             "title": self.title,
             "body": self.body,
-            "created_at": self.created_at,
-            "updated_at": self.updated_at,
+            "createdAt": self.created_at,
+            "updatedAt": self.updated_at,
         }
 
     @classmethod
@@ -30,6 +30,6 @@ class Note:
             id=data["id"],
             title=data["title"],
             body=data["body"],
-            created_at=data["created_at"],
-            updated_at=data["updated_at"],
+            created_at=data["createdAt"],
+            updated_at=data["updatedAt"],
         )

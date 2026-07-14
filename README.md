@@ -12,7 +12,9 @@ Prompt :
 Make a bash script to start the frontend and one bash script to start the backend. 
 Name the files run-backend.sh and run-frontend.sh 
 
-Error appears : 
+Run the scripts. 
+
+In my case error appeared :  
 
 Cannot read properties of undefined (reading 'localeCompare')
 

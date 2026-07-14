@@ -2,11 +2,17 @@
 
 ## Spec mode 
 
+Prompt : 
+
 Build me an application, which manages notes. It's a webapplication build with vue and having python as an api backend. The application needs to show a list of notes, add a note, edit a note and delete a note.
 
+
+Prompt : 
 make a run-backend.sh
 make a run-frontend.sh
 
+
+Error appears : 
 
 Cannot read properties of undefined (reading 'localeCompare')
 
